@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+/** document.addEventListener("DOMContentLoaded", function() {
     const scene = document.createElement('a-scene');
     scene.setAttribute('embedded', '');
     scene.setAttribute('arjs', '');
@@ -19,3 +19,4 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById('ar-container').appendChild(scene);
 });
+*/
